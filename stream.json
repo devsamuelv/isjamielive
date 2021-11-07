@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"id": "43739539308",
+			"user_id": "112375357",
+			"user_login": "lana_lux",
+			"user_name": "Lana_Lux",
+			"game_id": "1469308723",
+			"game_name": "Software and Game Development",
+			"type": "live",
+			"title": "THIS IS GAME DEV",
+			"viewer_count": 285,
+			"started_at": "2021-11-07T13:21:53Z",
+			"language": "en",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lana_lux-{width}x{height}.jpg",
+			"tag_ids": [
+				"6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+				"b97ee881-e15a-455d-9876-657fcba7cfd8",
+				"f588bd74-e496-4d11-9169-3597f38a5d25",
+				"02ba4017-ed3b-4b82-ab20-011860784f77",
+				"a59f1e4e-257b-4bd0-90c7-189c3efbf917",
+				"315618b7-c996-443d-a993-e8d5cdb5d1bd"
+			],
+			"is_mature": true
+		}
+	],
+	"pagination": {}
+}
