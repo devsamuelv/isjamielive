@@ -14,7 +14,7 @@ export default async function handler(
 		{
 			headers: {
 				"Client-ID": "gjmrqd4mdfympmti3ss1ah8r34mmc2",
-				Authorization: "Bearer 2scc3irks8yvteddrxo7yc1mxm6s8t",
+				Authorization: `Bearer ${process.env.TOKEN}`,
 			},
 		}
 	);
